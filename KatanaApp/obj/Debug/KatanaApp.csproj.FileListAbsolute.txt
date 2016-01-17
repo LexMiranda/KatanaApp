@@ -1,0 +1,15 @@
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\KatanaApp.exe.config
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\obj\Debug\KatanaApp.csprojResolveAssemblyReference.cache
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\KatanaApp.exe
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\KatanaApp.pdb
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.dll
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Owin.dll
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.xml
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\obj\Debug\KatanaApp.exe
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\obj\Debug\KatanaApp.pdb
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Diagnostics.dll
+c:\users\lexl\documents\visual studio 2015\Projects\KatanaApp\KatanaApp\bin\Debug\Microsoft.Owin.Diagnostics.xml
